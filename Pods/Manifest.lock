@@ -1,0 +1,66 @@
+PODS:
+  - AFNetworking (2.4.1):
+    - AFNetworking/NSURLConnection (= 2.4.1)
+    - AFNetworking/NSURLSession (= 2.4.1)
+    - AFNetworking/Reachability (= 2.4.1)
+    - AFNetworking/Security (= 2.4.1)
+    - AFNetworking/Serialization (= 2.4.1)
+    - AFNetworking/UIKit (= 2.4.1)
+  - AFNetworking/NSURLConnection (2.4.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.4.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.4.1)
+  - AFNetworking/Security (2.4.1)
+  - AFNetworking/Serialization (2.4.1)
+  - AFNetworking/UIKit (2.4.1):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - Base64nl (1.2)
+  - Crashlytics (3.3.1)
+  - Fabric (1.5.1):
+    - Fabric/Base (= 1.5.1)
+  - Fabric/Base (1.5.1)
+  - FXBlurView (1.6.1)
+  - HPGrowingTextView (1.1)
+  - Mantle (1.3.1):
+    - Mantle/extobjc (= 1.3.1)
+  - Mantle/extobjc (1.3.1)
+  - OHAttributedLabel (3.5.3)
+  - SDWebImage (HEAD based on 3.7.3):
+    - SDWebImage/Core (= HEAD based on 3.7.3)
+  - SDWebImage/Core (HEAD based on 3.7.3)
+  - SWTableViewCell (0.2.4)
+  - UITableView-NXEmptyView (0.1.5)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.4.1)
+  - Base64nl
+  - Crashlytics
+  - Fabric
+  - FXBlurView
+  - HPGrowingTextView
+  - Mantle
+  - OHAttributedLabel
+  - SDWebImage (HEAD)
+  - SWTableViewCell
+  - UITableView-NXEmptyView
+
+SPEC CHECKSUMS:
+  AFNetworking: 41d45d2c14219af0fa5addf3cfd433a002c13c9f
+  Base64nl: a497bdcd1c01ea793d36b399016195a8713c0e95
+  Crashlytics: 0e61bdda9def51f1e99720f804eebe94865442b2
+  Fabric: 03c3b3fe77e11a2bc31421b989a9c7adaa4779a5
+  FXBlurView: 5121730176fd52bcf7bffd0bd8c1485e8aabc3cb
+  HPGrowingTextView: 88a716d97fb853bcb08a4a08e4727da17efc9b19
+  Mantle: a516570b84c3cefb34b02647a6588a087dddc490
+  OHAttributedLabel: 136e9cde7ff20c2d9cf3dece48e74e5249269d83
+  SDWebImage: 1d2b1a1efda1ade1b00b6f8498865f8ddedc8a84
+  SWTableViewCell: bc8304614739020f40d40c88fde540207ddd06a9
+  UITableView-NXEmptyView: 74eb70639601770a3445655c5eb9bc62f3cc2de0
+
+COCOAPODS: 0.38.2

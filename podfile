@@ -1,0 +1,16 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '7.0'
+
+pod "Mantle"
+pod "AFNetworking", "~> 2.4.1"
+
+pod "OHAttributedLabel"
+pod "HPGrowingTextView"
+pod "SWTableViewCell"
+pod 'SDWebImage', :head
+pod 'UITableView-NXEmptyView'
+pod "FXBlurView"
+pod "Base64nl"
+pod 'Fabric'
+pod 'Crashlytics'
+

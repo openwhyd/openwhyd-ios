@@ -1,0 +1,462 @@
+/*
+ Localizable.strings
+ Whyd
+ 
+ Created by Damien Romito on 18/05/14.
+ Copyright (c) 2014 Damien Romito. All rights reserved.
+ */
+
+//stop at PlaylistViewController.m
+
+/********************** COMMON **********************/
+"AreYouSure" = "Êtes vous sûr?";
+"Yes" = "Oui";
+"No" = "Non";
+"Email" = "Email";
+"Next" = "Suivant";
+"Ok" = "Ok";
+"Track" = "Titre";
+"Tracks" = "Titres";
+"Users" = "membres";
+"Playlists" = "playlists";
+"Cancel" = "Annuler";
+"UnavailableTrack" = "Ce titre n’est pas disponible";
+"ThisIsNotAnEmail" = "Ceci n’est pas un email";
+"Comment" = "Commentaire";
+"Comments" = "Commentaires";
+"Likes" = "j’aime";
+"Like" = "j’aime";
+"Unlike" = "je n’aime plus";
+"Add" = "Ajouter";
+"Edit" = "Editer";
+"Save" = "Valider";
+
+/********************** EDIT TRACK **********************/
+
+"Add track" = "Ajouter le titre";
+"Edit track" = "Editer le titre";
+"Done" = "Ok";
+"DeleteThisTrack" = "Supprimer ce titres";
+"TrackAdded" = "Titre ajouté!";
+"TrackEdited" = "Titre ajouté!";
+"TrackDeleted" = "Titre supprimé";
+"AddAComment" = "Ajouter un commentaire";
+"EditTrackSelectPlaylist" = "Selectionner une playlist";
+"PlaylistSelect" = "Selectionner une playlist";
+
+
+/********************** Playlist Select **********************/
+"PlaylistSelectTitle" = "Vos Playlists";
+
+
+/********************** PLAYLIST **********************/
+"PlaylistTitle" = "Playlist";
+"CreatedBy" = "Créée par";
+"PlaylistPlaceholder" = "Vous n’avez pas encore ajouté de titre";
+
+
+/********************** COMMENT VIEW CONTROLLER **********************/
+"Send" = "Envoyer";
+"No comments yet." = "Pas encore de commentaire";
+"DeleteThisComment" = "Supprimer ce commentaire";
+
+
+/********************** COMMENT CELL **********************/
+"retry" = "Ressayer";
+
+
+/********************** HOT TRACK **********************/
+"HotTracks" = "Populaire";
+"PlayAll" = "Lecture";
+"All" = "Tous les genres";
+
+
+
+/********************** NOTIFICATIONS **********************/
+"Notifications" = "Notifications";
+"WouldYouLikeToBeAlertedWhenSomeoneLikesYourTrack" = "Souhaitez-vous être notifié quand quelqu’un aime votre titre?";
+"NoThanks" = "Non merci";
+"NotifyMe" = "Me notifier";
+"NoNotificationsYet" = "Pas encore de notifications";
+"NotificationsAlertLogoutTitle" = "Vous êtes déconnectez!";
+"NotificationsAlertLogout" = "Vous devez être connecté pour voir les notifications";
+
+"NotificationsAlertFirstPost" = "Bravo, votre premier post!";
+"NotificationsAlertBeAlerted" = "Souhaitez-vous être notifié quand quelqu’un aime votre titre?";
+//MENU VIEW
+"Settings" = "Réglages";
+
+
+
+/********************** PLAYER **********************/
+"NowPlaying" = "En lecture";
+"TrackLiked" = "Vous aimez ce titre";
+"TrackUnliked" = "Vous n'aimez plus ce titre";
+"Add" = "Ajouter";
+"Like" = "J'aime";
+"Unlike" = "Je n’aime plus";
+
+
+/********************** ADD FRIENDS **********************/
+"AddFriends" = "Ajouter des amis";
+
+
+/********************** ONBOARDING **********************/
+"WhoAreYou" = "Qui êtes vous?";
+"PickSomeGenresYouLike" = "Sélectionnez les genres que vous aimez";
+"OnboardingWelcome" = "Bienvenue";
+
+//when any genre selected
+"Nothing" = "Rien?";
+"YouNeedToSelectAtLeastOneGenre" = "Sélectionnez au moins un genre";
+"Suggestions" = "Suggestions";
+"Hooray" = "Hourra!";
+"WeFoundSomePeopleWithTheSameTasteAsYou" = "Nous avons trouvé des personnes qui partagent vos goûts";
+"WeFoundSomeOfYourFriendsWhoAreAlreadyOnWhyd" = "Nous avons trouvé vos amis qui sont déjà sur OpenWhyd!";
+//facebook
+"OnboardingFacebookTitle" = "Amis Facebook";
+
+
+/********************** PLAYLIST **********************/
+"NameOfYourPlaylist" = "Nom de votre playlist";
+"CreateAPlaylist" = "Créer une playlist";
+
+"Create" = "Créer";
+"CreateYourFirstPlaylist" = "Créez votre première playlist";
+"YouHaventCreatedAnyPlaylistsYet" = "Vous n’avez pas encore créé de playlist";
+"DeleteThePlaylist" = "Supprimer cette playlist";
+"PlaylistUnavailable" = "Playlist indisponible";
+"PlaylistEmpty" = "Playlist vide";
+
+
+
+/********************** HOME **********************/
+"HomeSlogan" = "Music by Music Lovers";
+"SignUpWithFacebook" = "S’inscrire par Facebook";
+"SignUpWithEmail" = "S’inscrire par email";
+"Login" = "Se connecter";
+
+
+/********************** LOGIN **********************/
+"Login" = "Se connecter";
+"WelcomeBack" = "Heureux de vous revoir";
+"orYourUsername" = "ou votre nom d’utilisateur";
+"EnterYourEmailOrYourUsername" = "Entrez votre email our votre nom d’utilisateur";
+"Password" = "Mot de passe";
+"PasswordFormatIncorrect" = "Mot de passe incorrect";
+"ForgotYourPassword" = "Vous avez oublié votre mot de passe?";
+"LoginWithFacebook" = "Connection avec Facebook";
+"Show" = "Afficher";
+"Hide" = "Cacher";
+"YouAreNotYetAMember" = "Vous n’êtes pas un membre";
+"AllFieldsMustBeFilledAndCorrect" = "Tous les champs doivent être remplis";
+"PleaseFillInAllFields" = "Merci de remplir tous les champs";
+"LoginErrorAlertTitle" = "Hummm...";
+"TextFieldShow" = "Afficher";
+"TextFieldHide" = "Cacher";
+
+/********************** FORGOT PASSWORD **********************/
+"ForgotPassword" = "Vous avez oublié votre mot de passe?";
+"ForgotPasswordInfo" = "Nous allons vous envoyer un email avec les instructions pour changer de mot de passe";
+
+
+/********************** REGISTER **********************/
+"SignUp" = "S’inscrire";
+"FullName" = "Nom complet";
+"soYourFriendFindYou" = "Vos amis pourrons vous trouver";
+"Username" = "Nom d’utilisateur";
+"WeDontSpam" = "Nous ne spammons pas";
+"AtLeast4Characters" = "Au moins 4 caractères";
+"ByContinuingIAgree" = "En poursuivant, J’accepte les conditions d’utilisation et les termes du service OpenWhyd.";
+"WantYouLinkeYourFacebookToThisExistingAccount" = "Voulez vous connecter votre compte Facebook à votre compte OpenWhyd";
+
+"Wait" = "Hummm...!"; //message d'erreur
+"AtLeast2Characters" = "Au moins 4 caractères";
+"WeHaventValidateYourUsername" = "Attendez! Nous n’avons pas valider votre compte utilisateur"; // Attendez un instant, Nous vérifions que votre nom d’utilisateur est disponible.
+
+
+/********************** SEARCH **********************/
+"SearchTrackPlaceholder" = "Aucun titre trouvé";
+"SearchPlaylistPlaceholder" = "Aucune playlist trouvé";
+"SearchUserPlaceholder" = "Aucun membre trouvé";
+"SearchPlaceholder" = "Recherche";
+"SearchInfo" = "Recherchez un titre , une playlist, ou un membre.";
+"SearchPlaylistName" = "Recherche:";
+"SearchSeeMore" = "Voir plus";
+"SearchDetailsTracksTitle" = "Titres trouvés"; //tracks / people/ playlist
+"SearchDetailsUsersTitle" = "Membres trouvés"; //tracks / people/ playlist
+"SearchDetailsPlaylistsTitle" = "Playlists trouvées"; //tracks / people/ playlist
+
+//trackcell
+"SearchPeopleCount" = "%@ +%d personnes"; //special
+"SearchPoweredSouncloud" = "Via SoundCloud";
+"SearchPoweredYoutube" = "Via Youtube";
+
+
+/********************** SETTINGS **********************/
+"SettingsTitle" = "Réglages";
+"SettingsSectionInformation" = "Informations privées";
+"SettingsChangeEmail" = "Changer votre email";
+"SettingsChangePassword" = "Changer votre mot de passe";
+"SettingsSectionNotifications" = "Notifications";
+"SettingsSignout" = "Se déconnecter";
+"SettingsSave" = "Valider";
+
+//email
+"SettingsEmailTitle" = "Email";
+"SettingsEmailPlaceholder" = "Entrez votre nouvel email";
+"SettingsEmailIdentical" = "Entrer votre adresse email à nouveau";
+"SettingsEmailErrorAlertTitle" = "Attendez!";
+
+//password
+"SettingsPasswordTitle" = "Mot de passe";
+"SettingsPasswordCurrent" = "Actuel";
+"SettingsPasswordCurrentPlaceholder" = "Votre mot de passe actuel";
+"SettingsPasswordCurrentError" = "au moins 4 caractères";
+"SettingsPasswordNew" = "Nouveau";
+"SettingsPasswordNewPlaceholder" = "au moins 4 caractères";
+"SettingsPasswordNewError" = "au moins 4 caractères";
+"SettingsPasswordConfirm" = "Confirmer";
+"SettingsPasswordConfirmPlaceholder" = "confirmer votre nouveau mot de passe";
+"SettingsPasswordConfirmError" = "au moins 4 caractères";
+"SettingsPasswordFieldsMissing" = "Merci de compléter tous les champs";
+"SettingsPasswordIdentical" = "Le nouveau mot de passe et l’ancien mot de passe sont identiques!";
+"SettingsPasswordConfirmNotIdentical" = "Le mot de passe et la confirmation du mot de passe ne sont pas identiques!";
+"SettingsPasswordErrorAlertTitle" = "Attendez!";
+
+//notifications
+"SettingsNotifSubscription" = "Vous avez un nouvel abonné";
+"SettingsNotifAdd" = "Un membre a ajouté votre titre";
+"SettingsNotifLike" = "Un membre a aimé votre titre";
+"SettingsNotifMention" = "Un membre vous a mentionné";
+"SettingsNotifComment" = "Un membre a commenté votre titre";
+"SettingsNotifFriend" = "Un ami a rejoint OpenWhyd";
+"SettingsNotifAcceptation" = "Un ami a accepté votre invitation";
+"SettingsNotifReceiveTrack" = "Un membre vous a envoyé un titre";
+"SettingsNotifReceivePlaylist" = "Un membre vous a envoyé une playlist";
+
+"SettingsNotifAlertTitle" = "Rien?";
+"SettingsNotifAlertMessage" = "Vous n'avez rien modifié";
+
+//share
+"SettingsShareTitle" = "Paramètres de publication";
+"SettingsShareFacebook" = "Connecter votre Facebook";
+"SettingsShareTwitter" = "Connecter votre Twitter";
+"SettingsShareFacebook" = "Connecter votre Facebook";
+
+
+/********************** STREAM **********************/
+
+"StreamTitle" = "Stream";
+"StreamPlaceholder" =  "Aucun titre.";
+"StreamPlaceholderSub" =  "Vous ne suivez aucun membre!";
+
+
+/********************** TRACK PAGE **********************/
+"TrackViewReaddVia" = "Ajouté via";
+"TrackViewPowered" = "via";
+"TrackViewAdds" = "Ajouts";
+
+
+/********************** TRACK CELL **********************/
+"TrackCellInPlaylist" = "";
+
+
+/********************** TUTO **********************/
+"TutoInfoBold" = "Maintenir appuyé";
+"TutoInfo" = "le titre pour l'ajouter ou l'aimer plus simplement.";
+"TutoKeepHolding" = "Bien! Continuez d’appuyer";
+"TutoKeepHolding2" = "Gardez votre doigt appuyé";
+"TutoGreat" = "Génial! C'est cool, non?";
+
+
+/********************** PROFILE **********************/
+"ProfileTracksOf" = "Profil de %@"; //special
+"ProfileLikesOf" = "Aimé par %@"; //special
+"ProfileTitle" = "Profil";
+"ProfileFollowers" = "Abonnés";
+"ProfileFollowing" = "Abonnements";
+"ProfileTracksPlaceholder" = "Pas encore de titre";
+"ProfileTracksPlaceholderMe" = "Vous n’avez pas encore ajouté de titre";
+"ProfileTracksPlaceholderMeSub" = "Cherchez des titres à ajouter."; //KEEP SPACES AFTER SEARCH
+
+"ProfileUsersPlaceholderMe" = "Vous n’avez pas encore créé de playlist" ;
+"ProfileUsersPlaceholder" = "Pas encore de playlist" ;
+"ProfilePlaylistsPlaceholderMe" = "Vous n’avez pas encore ajouté de titre";
+"ProfilePlaylistsPlaceholder" = "Aucun titre aimé";
+
+/********************** PROFILE EDIT **********************/
+"ProfileEditTitle" =  "Editer Profil";
+
+"ProfileEditBiographie" =  "Biographie";
+"ProfileCameraRoll" = "Choisir une photo existant";
+"ProfileTakePhoto" = "Prendre une photo";
+"ProfileEditPhotos" = "Photos";
+"ProfileEditPhotoProfile" = "Profil";
+"ProfileEditPhotoBackground" = "Couverture";
+"ProfileEditInformation" = "Informations";
+"ProfileEditFullnamePlaceholder" = "Afin que vos avis vous trouvent";
+"ProfileEditFullname" = "Nom complet";
+"ProfileEditLocationPlaceholder" = "Où êtes vous?";
+"ProfileEditLocation" = "Localisation";
+"ProfileEditWebsitePlaceholder" = "ajouter un lien";
+"ProfileEditWebsite" = "Site web";
+
+
+/********************** BUTTONS FOLLOW **********************/
+"FollowButtonOn" = "Abonné";
+"FollowButtonOff" = "Suivre";
+
+/********************** FOLLOWERS **********************/
+"FollowersTitle" = "Abonnés";
+"FollowersPlaceholder" = "Pas encore d’abonnés";
+"FollowersPlaceholderMe" = "Vous n’avez pas encore d’abonnés";
+
+
+
+/********************** FOLLOWING **********************/
+
+"FollowingTitle" = "Abonnements";
+"FollowingPlaceholder" = "Pas encore d’abonnements";
+"FollowingPlaceholderMe" = "Vous n’avez pas encore d’abonnements";
+
+
+
+/********************** ERROR **********************/
+
+"ErrorNoInternet" = "Pas de connection Internet";
+"ErrorNoInternetRetry" = "Réessayer";
+"ErrorInternetOffline" = "La connection Internet semble inactive";
+"ErrorFacebookNotConnectedTitle" = "Facebook n’est pas connecté!";
+"ErrorFacebookNotConnected" = "Pour connecter votre compte Facebook, allez dans vos réglages téléphone  > Facebook > Entrez votre nom d’utilisateur, mot de passe et connectez vous.";
+"ErrorFacebookNotLinked" = "Ce compte Facebook ne semble pas être connecté à votre compte OpenWhyd. Voulez vous vous connecter avec celui-ci?";
+
+
+/********************** CONTROLCENTER **********************/
+"ControlCenterVia" = "via";
+
+
+/********************** DATES **********************/
+"DateNow" = "maintenant"; //special
+"DateMinutes" = "%dm"; //special
+"DateMunitesNotifs" = "IL Y A %d MINUTES"; //special
+"DateHours" = "%dh"; //special
+"DateHoursNotifs" = "IL Y A %d HEURES"; //special
+"DateDays" = "%dj"; //special
+"DateDaysNotifs" = "IL Y A %d JOURS"; //special
+"DateInYearFormat" = "d MMM"; //special
+"DateFormat" = "d MMM yyyy";  //special
+
+
+
+/*************************************************************************************************/
+/******************************************** UPDATE 1.2 ********************************************/
+/*************************************************************************************************/
+
+"AlertUpdateTitle" = "OpenWhyd mise à jour";
+"AlertUpdate" = "Une nouvelle version est disponible";
+"AlertUpdateOk" = "Mise à jour";
+
+"ErrorUnknownTitle"= "Erreur";
+"ErrorUnknown" = "Une erreur est survenue. Contacter l’équipe OpenWhyd à contact@openwhyd.org";
+
+"ErrorTwitterAlreadyUseTitle" = "Choisir un autre compte";
+"ErrorTwitterAlreadyUse" = "Ce compte Twitter est déjà associé à un autre membre";
+"ErrorTwitterAccountNoRecognizeTitle" = "Compte non connecté";
+"ErrorTwitterAccountNoRecognize" = "Vérifier les informations, aller dans les réglages de votre iPhone > Twitter > @%@";
+"ErrorTwitterNotConnectedTitle" = "Twitter n’est pas connecté!";
+"ErrorTwitterNotConnected" = "Aucun compte Twitter n'a été trouvé. Aller sur dans les réglages de votre iPhone> Twitter and add a Twitter account.";
+"TwitterChooseAnAccount" = "Choisir un compte";
+"ErrorFacebookAppNotConnectedTitle" = "L'application Facebook n'est pas connectée";
+"ErrorFacebookAppNotConnected" = "Ouvrez votre application Facebook pour vous connecter à votre compte Facebook";
+"ErrorFacebookAlreadyUseTitle" = "Compte indisponible";
+"ErrorFacebookAlreadyUse" =  "Ce compte Facebook est déjà associé à un autre membre. Pour utiliser un autre compte, allez dans les réglages de votre iPhone > Facebook ";
+
+
+"Share" = "Paramètre de partage";
+"ShareTwitterShareMessage" = "%@ - %@ #openwhyd"; //Je  viens d’ajouter[tr ack name] sur Whyd -[track url]
+"ShareTwitterShareMessageWithComment" = "%@ - %@ #openwhyd"; //[Comment] - [track url]
+
+"ShareSheetTrackTitle" = "Partager ce titre:";
+"ShareSheetPlaylistTitle" = "Partager cette playlist:";
+"ShareSheetFacebook" = "via Facebook";
+"ShareSheetTwitter" = "via Twitter";
+"ShareSheetEmail" = "via Email";
+"ShareSheetMessages" ="via Messages";
+"ShareSheetCopyLink" ="Copier l'url";
+
+"ShareSheetTrackFacebookInitialText" = "♫ #NowPlaying %@ sur #openwhyd"; //[Track name] - [Track Url]
+"ShareSheetTrackFacebookSuccess" = "Titre partagé";
+"ShareSheetTrackTwitterInitialText" = "♫ %@ - %@ #NowPlaying via #openwhyd"; //[Track name] - [Track Url]
+"ShareSheetTrackTwitterSuccess" = "Tweet envoyé";
+"ShareSheetTrackEmailSubject" = "Nouveau son découvert sur OpenWhyd";
+"ShareSheetTrackEmailMessage" = "Ecoutes ça: %@."; //[Track name + URL]
+"ShareSheetTrackEmailSuccess" = "Email envoyé";
+"ShareSheetTrackMessagesMessage" = "♫ Nouveau son découvert sur OpenWhyd: %@ - %@"; //[Track name] - [Track Url]
+"ShareSheetTrackMessagesSuccess" = "Message envoyé";
+"ShareSheetTrackCopyLinkSuccess" = "Lien copié. Collez-le n'importe ou!";
+
+"ShareSheetPlaylistFacebookInitialText" = "#NowPlaying %@ sur #openwhyd"; // [Playlist Name]
+"ShareSheetPlaylistFacebookSuccess" = "Playlist partagée";
+"ShareSheetPlaylistTwitterInitialText" = "♫ %@ - %@ #NowPlaying #openwhyd"; //[Playlist name] - [PLaylist Url]
+"ShareSheetPlaylistTwitterSuccess" = "Tweet envoyé";
+"ShareSheetPlaylistEmailSubject" = "Nouvelle playlist découverte sur OpenWhyd";
+"ShareSheetPlaylistEmailMessage" = "♫ Ecoutes ça: %@."; //[Playlist name]
+"ShareSheetPlaylistEmailSuccess" = "Email sent";
+"ShareSheetPlaylistMessagesMessage" = "♫ Nouvelle playlist découverte sur OpenWhyd: %@ - %@"; //[Playlist name] - [PLaylist Url]
+"ShareSheetPlaylistMessagesSuccess" = "Message envoyé";
+"ShareSheetPlaylistCopyLinkSuccess" = "Lien copié dans clipboard";
+
+"NotificationsAlertRateTitle" = "Recommender OpenWhyd";
+"NotificationsAlertRate" = "Souhaitez vous noter l’application OpenWhyd sur l’App Store? Cela nous aiderait beaucoup!";
+"NotificationsAlertRateYes"= "Noter 5 étoiles";
+
+
+"SearchUserPickerTitle" = "Choisir des membres";
+"SearchUserPickerPlaceholder" = "Sélectionnez les membres à qui vous souhaitez envoyer";
+"Share" = "Partager";
+"SearchUserPickerTrackSuccess" = "Titre envoyé";
+"SearchUserPickerPlaylistSuccess" = "Playlist envoyée";
+"ShareSheetWhyd" = "via OpenWhyd";
+"NotificationsComment" = "%@ a commenté votre titre";
+"NotificationsLike" = "%@ a aimé votre titre";
+"NotificationsAddYourTrack" = "%@ a ajouté votre titre";
+"NotificationsMention" = "%@ vous a mentionné dans un commentaire";
+"NotificationsNewFollower" = "%@ a commencé à vous suivre";
+"NotificationsFriendJoin" = "Votre ami %@ vient de rejoindre OpenWhyd";
+"NotificationsSendTrack" = "%@ vous a envoyé un titre";
+"NotificationsSendPlaylist" = "%@ vous a envoyé une playlist";
+"NotificationsMultiPeople" = "%@ et %d autres personnes";
+"inPlaylist" = "dans la playlist";
+"SettingsSectionSharing" = "Paramètres de publication";
+"SettingsSectionPreferences" = "Préférences";
+
+"GenreAll" = "Tous les genres";
+"GenreHiphop" = "Hip Hop";
+"GenreElectro" = "Electronique";
+"GenreIndie" = "Indie";
+"GenreFolk" = "Folk";
+"GenreRock" = "Rock";
+"GenreMetal" = "Metal";
+"GenreRnb" = "R&B";
+"GenreSoul" = "Soul";
+"GenreBlues" = "Blues";
+"GenrePunk" = "Punk";
+"GenreJazz" = "Jazz";
+"GenreClassical" = "Classique";
+"GenreReggae" = "Reggae";
+"GenrePop" = "Pop";
+"GenreLatin" = "Latine";
+"GenreWorld" = "World";
+
+
+"AlertNotConnectedTitle" = "Vous êtes déconnectez!";
+"AlertNotConnected" = "Vous devez être connecté pour voir cette page";
+
+
+"ShuffleOnlyInPlaylist" = "La lecture aleatoire est seulement disponible dans les playlists.";
+
+"AlertTitleTrack"= "Super morceau!";
+
+"PopupOpenWhydTitle" = "Whyd devient Openwhyd !";
+"PopupOpenWhydMessage" = "Alors que Whyd évolue vers la création d'un objet sonore innovant, nous avons décidé de vous permettre de participer au futur de notre réseau social musical grâce à Openwhyd, la plateforme musicale open-source.";
