@@ -85,7 +85,7 @@ static NSString * const NB_ITEMS_LIMIT = @"20";
 
     
     if ([dictionaryValue objectForKey:@"url"] && ![[dictionaryValue objectForKey:@"url"] isEqualToString:@""] ) {
-        _url = [NSString stringWithFormat:@"%@?format=json&limit=1000", [dictionaryValue objectForKey:@"url"] ];
+        _url = [NSString stringWithFormat:@"%@?format=json", [dictionaryValue objectForKey:@"url"] ];
     }
     self.id = [NSString stringWithFormat:@"%@", [dictionaryValue valueForKey:@"id"]];
 

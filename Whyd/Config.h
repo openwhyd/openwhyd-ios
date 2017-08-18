@@ -146,7 +146,7 @@ static NSString* const API_TOGGLE_LIKE = @"/api/post?action=toggleLovePost";
 
 //PLAYLIST
 static NSString* const API_PLAYLIST = @"/api/playlist";
-#define API_PLAYLIST(userId,id) [NSString stringWithFormat:@"u/%@/playlist/%@?format=json&limit=1000",(userId),(id)]
+#define API_PLAYLIST(userId,id) [NSString stringWithFormat:@"u/%@/playlist/%@?format=json",(userId),(id)]
 
 //COMMENT
 static NSString* const API_COMMENT_ADD = @"api/post?action=addComment";
